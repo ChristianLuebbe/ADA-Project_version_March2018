@@ -1,0 +1,25 @@
+initial decision,final decision,year,age,gender,marital_status,district,leave_option,child_status
+move to ZH,move to ZH,1993,18,F,Single,Altstetten,False,False
+stay,stay,1994,19,F,Single,Altstetten,False,False
+stay,stay,1995,20,F,Single,Altstetten,False,False
+stay,stay,1996,21,F,Single,Altstetten,False,False
+stay,stay,1997,22,F,Single,Altstetten,False,False
+move within,move within,1998,23,F,Single,Unterstrass,False,False
+stay,stay,1999,24,F,Single,Unterstrass,False,False
+stay,stay,2000,25,F,Single,Unterstrass,False,False
+move within,move within,2001,26,F,Married,Altstetten,False,False
+stay,stay,2002,27,F,Married,Altstetten,False,False
+stay,stay,2003,28,F,Married,Altstetten,False,False
+stay,stay,2004,29,F,Married,Altstetten,False,False
+stay,stay,2005,0,M,Single,Altstetten,False,True
+stay,stay,2006,1,M,Single,Altstetten,False,True
+stay,stay,2007,2,M,Single,Altstetten,True,True
+stay,stay,2008,3,M,Single,Altstetten,True,True
+stay,stay,2009,4,M,Single,Altstetten,True,True
+leave,leave,2010,5,M,Single,outside,True,True
+leave,leave,2011,6,M,Single,outside,True,True
+leave,leave,2012,7,M,Single,outside,True,True
+leave,leave,2013,8,M,Single,outside,True,True
+leave,leave,2014,9,M,Single,outside,True,True
+leave,leave,2015,10,M,Single,outside,True,True
+leave,leave,2016,11,M,Single,outside,True,True
